@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "779387914703",
+    "firebase_url": "https://paystock-b0f7d.firebaseio.com",
+    "project_id": "paystock-b0f7d",
+    "storage_bucket": "paystock-b0f7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779387914703:android:648ad63efcc6c8c473aaba",
+        "android_client_info": {
+          "package_name": "com.example.paystackimplementation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779387914703-sdt96ep3ias4f0douhmd9dtpjm69ih5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paystackimplementation",
+            "certificate_hash": "cf70314b217d7f4adefe287d1d5bb6d93f052000"
+          }
+        },
+        {
+          "client_id": "779387914703-0j053sc1bg0otktrbf07o1t9sanlpbpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHdVsK-Jo9ErMGyNtDeR8Jv3Ucsiq0J5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779387914703-0j053sc1bg0otktrbf07o1t9sanlpbpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

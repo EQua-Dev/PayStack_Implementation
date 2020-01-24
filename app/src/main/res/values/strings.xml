@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PayStack Implementation</string>
+    <string name="Header">PayStock</string>
+    <string name="card_number">Card Number</string>
+    <string name="emai">Email</string>
+    <string name="expiry_month">MM</string>
+    <string name="expiry_year">YY</string>
+    <string name="security_code">CVC</string>
+    <string name="pay_button">Pay</string>
+    <string name="cancel">Cancel</string>
+    <string name="sign_up">Sign Up</string>
+
+
+</resources>
